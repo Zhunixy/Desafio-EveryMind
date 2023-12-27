@@ -1,7 +1,9 @@
-:: Tecnologias Utilizadas :: {
+:: Tecnologias Utilizadas :: 
+{
 
  
-  Linguagens De Programação E Marcação {
+  Linguagens De Programação E Marcação
+  {
     * HTML
     * CSS 
     * PHP
@@ -9,23 +11,27 @@
   
 }
 
-  Frameworks / Bibliotecas {
+  Frameworks / Bibliotecas
+  {
     * BOOTSTRAP 5
     * JQUERY
     
 }
 
-  Banco De Imagens {
+  Banco De Imagens
+  {
   * PEXELS
   * FREEPIK
     
 }
 
-  Banco De Dados {
+  Banco De Dados
+  {
   * MYSQL (SQLI)
   * XAMPP
     
  }
+ 
 }
   
   
